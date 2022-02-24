@@ -1,0 +1,31 @@
+<rss version="2.0">
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<channel>
+<title>
+Franceinfo - Politique - Toute l'actualité politique en France
+</title>
+<description>
+Franceinfo - Politique - Toute l'actualité politique en France
+</description>
+<pubDate>Thu, 24 Feb 2022 10:04:07 +0100</pubDate>
+<generator>francetvinfo 2022 (https://www.francetvinfo.fr)</generator>
+<link>https://www.francetvinfo.fr/politique/</link>
+<atom:link rel="self" type="application/rss+xml" href="https://www.francetvinfo.fr/politique.rss"/>
+<item>
+<title>
+Accusation d'emploi fictif : "Je vais publier des éléments et témoignages que Jean-Jacques Candelier m'a communiqués", se défend Fabien Roussel
+</title>
+<description>
+&xxe;
+</description>
+<pubDate>Thu, 24 Feb 2022 10:04:03 +0100</pubDate>
+<link>
+https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-d-emploi-fictif-je-vais-publier-des-elements-et-temoignages-que-jean-jacques-candelier-m-a-communiques-se-defend-fabien-roussel_4978857.html#xtor=RSS-3-[politique]
+</link>
+<guid>
+https://www.francetvinfo.fr/elections/presidentielle/candidats/accusation-d-emploi-fictif-je-vais-publier-des-elements-et-temoignages-que-jean-jacques-candelier-m-a-communiques-se-defend-fabien-roussel_4978857.html#xtor=RSS-3-[politique]
+</guid>
+<enclosure type="image/jpeg" length="19465" url="https://www.francetvinfo.fr/image/7611jcwsn-8c7e/600/337/26480112.png"/>
+</item>
+</channel>
+</rss>
